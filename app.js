@@ -9,3 +9,6 @@ var days1 = 31,
 var high1 = 22.6,
     high2 = 37.4,
     high3 = 53.9;
+
+cout << fixed << showpoint << setprecision(1);
+cout << "month         Days             High\n";
